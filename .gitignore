@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Local development settings
+.vscode/
+.DS_Store
+
+# Folder with data
+data/*
